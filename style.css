@@ -111,4 +111,8 @@ footer {
     flex-direction: column;
     gap: 10px;
   }
+  profile-img {
+    width: 20px;
+    height: 20px;
+  }
 }
